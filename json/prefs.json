@@ -1,0 +1,5 @@
+{
+  "dbUrl": "jdbc:h2:./enterpriseDB",
+  "dbUser": "mylogin",
+  "dbPass": "mypassword"
+}
