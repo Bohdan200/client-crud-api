@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3503b00-083b-4ad5-9b99-2c573077eb7e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enterpriseDB.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/enterpriseDB.mv.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +37,13 @@
         </projects_view>
       </state>
     </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -81,6 +81,7 @@
       <recent name="C:\Users\admin\Desktop\Java-projects\github-repo-java-developer\client-db\src\main\java\corp" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\Java-projects\github-repo-java-developer\client-db\src\main\java\corp\operations" />
       <recent name="C:\Users\admin\Desktop\Java-projects\github-repo-java-developer\client-db\src\main\resources\db\migration" />
       <recent name="C:\Users\admin\Desktop\Java-projects\github-repo-java-developer\client-db\example" />
       <recent name="C:\Users\admin\Desktop\Java-projects\github-repo-java-developer\client-db" />
@@ -91,7 +92,7 @@
       <recent name="corp.client" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DatabasePopulateClients">
+  <component name="RunManager" selected="Gradle.ClientDaoServiceTests">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="corp.App" />
       <module name="client-db.main" />
@@ -144,8 +145,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DatabasePopulateClients" />
         <item itemvalue="Gradle.ClientDaoServiceTests" />
+        <item itemvalue="Application.DatabasePopulateClients" />
         <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
